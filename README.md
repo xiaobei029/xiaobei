@@ -1,2 +1,2 @@
 # xiaobei
-PC,GAME
+PC,GAME,OS
